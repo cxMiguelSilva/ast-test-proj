@@ -25,7 +25,6 @@ jobs:
           # - results-dir/results.sarif
           output_path: results-dir
           output_formats: 'json,sarif'
-          ignore_on_exit: results
           # seek query id in it's metadata.json
           exclude_queries: 0437633b-daa6-4bbc-8526-c0d2443b946e
       - name: Show results
