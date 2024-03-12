@@ -4,4 +4,4 @@
 "type" = "Dockerfile,Kubernetes"
 "queries-path" = "assets/queries"
 "exclude-paths" = ["foo/", "bar/"]
-"output-path" = "results-dir"
+"output-name" = "results-demo.json"
