@@ -4,4 +4,4 @@
 "type" = "Dockerfile,Kubernetes"
 "queries-path" = "assets/queries"
 "exclude-paths" = ["foo/", "bar/"]
-"output-name" = "results-demo.testcoiso"
+"output-name" = "results-demo.tsestcoiso"
