@@ -15,7 +15,7 @@ jobs:
         # make sure results dir is created
         run: mkdir -p results-dir
       - name: Run KICS Scan with SARIF result
-        uses: cxMiguelSilva/kics-github-action@TestConfigV6.22
+        uses: cxMiguelSilva/kics-github-action@TestConfigV6.23
         with:
           path: vulns
           # when provided with a directory on output_path
