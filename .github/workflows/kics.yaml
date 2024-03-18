@@ -16,4 +16,4 @@ jobs:
         output_path: myResults/
         ignore_on_exit: results
         enable_comments: true
-        queries_path: vulns/vpc_flow_logs_disabled
+        queries: vulns/vpc_flow_logs_disabled
