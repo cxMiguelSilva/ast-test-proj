@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: run kics Scan
-      uses: cxMiguelSilva/kics-github-action@TestCritical
+      uses: cxMiguelSilva/kics-github-action@TestCriticalV3
       with:
         path: vulns
         token: ${{ secrets.GITHUB_TOKEN }}
